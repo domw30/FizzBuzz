@@ -9,4 +9,8 @@ describe "FizzBuzz" do
     it "given 2 return 2" do
         expect(fizz_buzz(2)).to eq 2
     end
+    
+    it "given 3 returns Fizz" do
+        expect(fizz_buzz(3)).to eq "Fizz"
+    end
 end
