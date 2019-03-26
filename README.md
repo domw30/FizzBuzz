@@ -1,8 +1,11 @@
 # FizzBuzz
 
-The goal of Fizzbuzz is to introduce you to Test Driven Development (TDD) and Pair Programming.
+The goal of Fizzbuzz is to introduce Test Driven Development (TDD) and Pair Programming.
 
-Work through this kata with a pair partner. Take turns on the keyboard as the driver. Swap driver/navigator roles, ensuring that the maximum time one person is driving is 15 minutes.
+The aim of the task is to work through this kata with a pair partner. Take turns on the keyboard as the driver. Swap driver/navigator roles, ensuring that the maximum time one person is driving is 15 minutes.
+
+I completed this task during week 4 of Makers Acadmey Precourse with my Mentor Stephen Khan. This was a good opportunity to practice
+pair programming and have an introduction to TDD.
 
 What is FizzBuzz?
 
